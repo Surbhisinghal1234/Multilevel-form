@@ -10,4 +10,9 @@
 .group.active {
   display: block;
 }
- 
+.submit{
+  background: linear-gradient(to right, rgb(224, 64, 64), rgb(78, 110, 78));
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
